@@ -1,0 +1,6 @@
+"Valor","Tempo Recursivo (s)","Tempo Iterativo (s)","Erro Recursivo","Erro Iterativo"
+"10","0.000001699","0.000003500","Nenhum erro","Nenhum erro"
+"100","0.000003199","0.000001201","Nenhum erro","Nenhum erro"
+"1000","0.000106600","0.000010100","Nenhum erro","Nenhum erro"
+"10000","0.000323500","0.000093799","Nenhum erro","Nenhum erro"
+"100000","0.004337701","0.000756201","Erro de memória","Nenhum erro"
